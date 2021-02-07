@@ -1,4 +1,4 @@
-# MTCS_SARSA_Q-Learning
+# MCTS_SARSA_Q-Learning
 
 ## 1 Monte Carlo Tree Search (MCTS)
 This section explains first, the implementation and the execution of the algorithm and then argue the results.
